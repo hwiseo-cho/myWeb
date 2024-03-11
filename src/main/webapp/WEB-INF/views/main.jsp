@@ -58,13 +58,12 @@
                     </div>
                     <div class="about-job">
                         <div style="display:table-cell; vertical-align:middle; text-align: justify;">
-                            <span style="color:black; font-size:20px;">안녕하세요<br>웹 개발자 조휘서입니다.</span>
+                            <span style="color:black; font-size:20px;">안녕하세요<br>백엔드 개발자 조휘서입니다.</span>
                             <br>
                             <br>
                             <span>
-									20살에 입대 후 군복무를 마친 후 22살부터 개발 공부를 시작하여 현재까지 웹개발을 하고있는 조휘서입니다. 제가 구축한 시스템을 고객들이 사용하고 점점 사용자가
-									늘어날 때 마다 행복과 성취감을 느낌니다. 더 많은 사람들이 저의 시스템을 사용할 수 있도록 노력하겠습니다.
-								</span>
+                                제가 구축한 시스템을 고객들이 사용하고 점점 사용자가 늘어날 때 마다 행복과 성취감을 느낌니다. 더 많은 사람들이 저의 시스템을 사용할 수 있도록 노력하겠습니다.
+                            </span>
                         </div>
                     </div>
                     <div class="about-job">
@@ -73,7 +72,8 @@
                             <br>
                             <br>
                             <span style="color:black;">2021-01 ~ 진행중</span><br>
-                            <span>(주) 이나인페이 모바일 해외송금 및 항공권 서비스</span><br><br>
+                            <span>(주) 이나인페이 | 매니저</span><br>
+                            <span>모바일 해외송금 및 항공권 서비스</span><br><br>
                             <span style="color:black;">2021-01 ~ 진행중(25년 졸업예정)</span><br>
                             <span>한양사이버대학교 응용소프트웨어학과 재학</span><br><br>
                             <span style="color:black;">2020-05 ~ 2020-12</span><br>
@@ -82,10 +82,10 @@
                     </div>
                     <div class="about-job">
                         <div style="display:table-cell; text-align: justify;">
-                            <span style="color:black; font-size:20px;">- Skill</span>
+                            <span style="color:black; font-size:20px;">- Skills</span>
                             <br>
                             <br>
-                            <span style="color:black;">Skills</span><br>
+                            <span style="color:black;">Hard</span><br>
                             <span>Java / Spring Framework / Oracle / REST API</span><br><br>
                             <span style="color:black;">Study</span><br>
                             <span>Spring Boot / MySql / Kafka</span><br>
@@ -105,10 +105,10 @@
                             </span>
                         </div>
                     </div> -->
-                    <-- <div  style="display:table; width:100%; text-align:center; padding-top:20px; cursor:pointer;">
+                    <%--<div  style="display:table; width:100%; text-align:center; padding-top:20px; cursor:pointer;">
                     <span style="display:block;">더보기</span>
                     <i class="fa fa-angle-down" style="font-size:25px; color:black; cursor:pointer;"></i>
-                </div> -->
+                     </div>--%>
                 </div>
             </div>
         </div>
@@ -157,43 +157,27 @@
                                 <img src="https://img.shields.io/badge/Jsp-black?style=flat&logoColor=fff"/>&nbsp;
                                 <img src="https://img.shields.io/badge/JQuery-black?style=flat&logoColor=fff"/>&nbsp;
                                 <img src="https://img.shields.io/badge/Oracle-black?style=flat&logoColor=fff"/>&nbsp;
-                                <img src="https://img.shields.io/badge/REST API-black?style=flat&logoColor=fff"/>
                             </p>
-                            <p class="mb-3 text-black">2023-10 카자흐스탄 Maxipay 송금 개발(당발)<br>
-                            <p class="mb-3 text-black">2023-09 신한은행 외환트레이딩시스템(FIX) 연결 및 관리자 개발<br>
-                                <span class="text-block-50">- 관리자페이지에서 사용하는 USD 주문(sell,buy)화면 및 기능 개발</span><br>
-                                <span class="text-block-50">- 당발백오피스 거래시 외화매입 기능 개발</span><br>
+                            <p class="mb-3 text-black">해외 송금 당발, 타발 송금 개발<br>
+                                <span class="text-block-50">- 10개 이상의 해외 은행 API 연결을 통한 송금 기능 개발</span><br>
                             </p>
-                            <p class="mb-3 text-black">2023-08 회원가입 안면인식 프로세스 추가<br>
-                                <span>- 신분증, 여권 등 사진 업로드 후 안면인식 서버에 전송 및 결과 저장</span> <br>
+                            <p class="mb-3 text-black">서비스 고도화 및 운영<br>
+                                <span class="text-block-50">- FIX 외화 매입 기능 추가</span><br>
+                                <span class="text-block-50">- 인증서 발급 시스템 개발</span><br>
+                                <span class="text-block-50">- 휴대폰, ARS, 카드 등 본인 인증 시스템 연결</span><br>
+                                <span class="text-block-50">- UI 리뉴얼 작업</span><br>
                             </p>
-                            <p class="mb-3 text-black">2023-06 우크라이나 Hermes 카드송금 개발(당발)</p>
-                            <p class="mb-3 text-black">2023-05 중국 Koronapay Alipay 송금 개발(당발)</p>
-                            <p class="mb-3 text-black">2023-01~03 금융결제원 센터인증에서 자체인증으로 변경 <br>
-                                <span>- 회원가입 (금결원 사용자 등록), 본인확인 1원 입금입체 작업</span> <br>
-                                <span>- 출금동의 ARS(쿠콘), 카드 본인인증(이니시스) 연결</span> <br>
-                                <span>- 기존 입금이체 자체인증 입금이체로 변경</span>
-                                <span>- 출금동의파일 sftp방식 전송 백오피스 개발</span>
+                            <p class="mb-3 text-black">핀테크 관련 외부 API 연결<br>
+                                <span class="text-block-50">- 해외 은행[Alipay, Oson, Wing, Doku, Maxipay, Hermes...등]</span><br>
+                                <span class="text-block-50">- 금융 관련[금융결제원, 쿠콘, 더즌, 이니시스, SCI, 신한은행, 광주은행]</span><br>
+                                <span class="text-block-50">- 항공권[Travelport]</span><br>
                             </p>
-                            <p class="mb-3 text-black">2022-10 베트남 9Pay 생활비 및 보증금(타발) 등록금(당발) 개발<br>
-                                <span class="text-block-50">- 베트남 타발 회원가입 프로세스 추가</span><br>
-                                <span class="text-block-50">- 타발, 당발 등록화면 및 송금 기능 개발</span><br>
-                            </p>
-                            <p class="mb-3 text-black">2022-09 러시아 Oson Hotels.com 충전 개발</p>
-                            <p class="mb-3 text-black">2022-06 인도네시아 Doku 해외선불폰 충전 개발</p>
-                            <p class="mb-3 text-black">2022-05 인도네시아 Doku 전기세 선불, 후불 충전 개발</p>
-                            <p class="mb-3 text-black">2022-03 캄보디아 Wing 계좌송금 개발(당발)</p>
-                            <p class="mb-3 text-black">2022-01 쿠콘 입금이체 개발 및 금결원 스위칭 기능 개발<br>
-                                <span class="text-block-50">- 기존 입금이체 프로세스에 쿠콘 입금이체 추가</span><br>
-                                <span class="text-block-50">- 관리자에서 금결원, 쿠콘 스위칭 기능 개발</span><br>
-                            </p>
-                            <p class="mb-3 text-black">2021-09 러시아 Unistream 송금 개발(타발)</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
+        <%--<div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
             <div class="col-lg-4">
                 <div class="bg-white text-center h-100 project">
                     <div class="d-flex h-100">
@@ -236,7 +220,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>--%>
 
         <!-- <h2 class="text-black mb-4 fw-bold">Side</h2>
         Project One Row
