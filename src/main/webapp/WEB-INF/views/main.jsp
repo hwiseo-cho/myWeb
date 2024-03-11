@@ -85,10 +85,10 @@
                             <span style="color:black; font-size:20px;">- Skill</span>
                             <br>
                             <br>
-                            <span style="color:black;">실무 경험</span><br>
-                            <span>Java / Spring Framework / Jsp / Javascript / JQuery / Oracle / Jeus / REST API / SOAP API</span><br><br>
-                            <span style="color:black;">개인 공부</span><br>
-                            <span>Spring Boot / MySql / AWS</span><br>
+                            <span style="color:black;">Skills</span><br>
+                            <span>Java / Spring Framework / Oracle / REST API</span><br><br>
+                            <span style="color:black;">Study</span><br>
+                            <span>Spring Boot / MySql / Kafka</span><br>
                         </div>
                     </div>
                     <!-- <div style="display:table; width:100%; text-align:center; padding-top:20px;">
