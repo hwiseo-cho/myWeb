@@ -11223,7 +11223,7 @@ body {
 }
 
 .testText::before {
-  content: "Hi, I'm Backend Developer Hwiseo";
+  content: "Hi, I'm Hwiseo";
   position: absolute;
   top: 0;
   left: 0;
@@ -11232,7 +11232,7 @@ body {
   color: #fff;
   overflow: hidden;
   border-right: 1px solid #fff;
-  animation: typing 3s steps(31);
+  animation: typing 1s steps(13);
   /* animation: typing 5s steps(31) infinite; */
 }
 

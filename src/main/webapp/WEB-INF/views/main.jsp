@@ -36,7 +36,7 @@
         <div class="d-flex justify-content-center">
             <div class="text-center">
                 <!-- <h1 class="mx-auto my-0 text-uppercase testText">Hi, I'm Web Developer Hwiseo</h1> -->
-                <h2 class="mx-auto my-0 text-uppercase testText">Hi, I'm Backend Developer Hwiseo</h2>
+                <h2 class="mx-auto my-0 text-uppercase testText">Hi, I'm Hwiseo</h2>
                 <!-- <h2 class="text-white-50 mx-auto mt-2 mb-5">A free, responsive, one page Bootstrap theme created by Start Bootstrap.</h2> -->
                 <!-- <a class="btn btn-primary" href="#about">Get =dsa</a> -->
             </div>
